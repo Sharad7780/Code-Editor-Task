@@ -1,0 +1,19 @@
+.editor-container {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+  font-family: monospace;
+  background-color: #f5f2f0;
+  position: relative;
+}
+
+.editor-textarea {
+  background: transparent;
+}
+
+.editor-highlighted {
+  background: #f5f2f0;
+  color: inherit;
+}
